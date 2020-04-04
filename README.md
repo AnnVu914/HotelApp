@@ -16,7 +16,7 @@ A Java web application for booking hotel room and restaurant services.
 * [Spring](https://spring.io) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Tomcat](http://tomcat.apache.org) - Server 
-* [Tomcat](http://tomcat.apache.org) - Server 
+* [Oracle](https://www.oracle.com/database/) - Database server 
 
 ## Configuration
 * Java configuration: configuration classes resides in src/main/java/com/hotel/application/config
